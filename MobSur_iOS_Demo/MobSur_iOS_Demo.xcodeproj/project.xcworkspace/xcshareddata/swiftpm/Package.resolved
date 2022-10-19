@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "mobsur_ios_sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/eden-tech-labs/MobSur_iOS_SDK",
+      "state" : {
+        "branch" : "main",
+        "revision" : "2ffda387fa2035ac33e8e0936362418a32c9a611"
+      }
+    }
+  ],
+  "version" : 2
+}
