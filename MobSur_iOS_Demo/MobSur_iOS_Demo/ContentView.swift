@@ -11,8 +11,12 @@ import MobSur_iOS_SDK
 struct ContentView: View {
     var body: some View {
         VStack {
-            Button("Start Survey"){
-                MobSurSDK.shared.event(name: "myevent")
+            Text("MobSur iOS Demo")
+                .font(.system(size: 25))
+                .padding()
+            
+            Button("Start the Survey"){
+                MobSurSDK.shared.event(name: "MY_Event")
             }
         }
         .padding()

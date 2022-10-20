@@ -12,7 +12,7 @@ import MobSur_iOS_SDK
 // no changes in your AppDelegate class
 class AppDelegate: NSObject, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey : Any]? = nil) -> Bool {
-        MobSurSDK.shared.setup(appID: "686034d7-dbf2-4555-8c7b-7ccfdc84927a", userID: "123", debug: true)
+        MobSurSDK.shared.setup(appID: "36121162-25d6-40f1-ab24-d5bd87a47601", userID: "123", debug: true)
         return true
     }
 }
