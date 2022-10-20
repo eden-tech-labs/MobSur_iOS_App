@@ -1,6 +1,6 @@
 # MobSur iOS Demo App
 
-This is a sample iOS application using the SwiftUI conception. It demonstrates the usage of the MobSur SDK.
+This is a sample iOS application using the SwiftUI conception. It demonstrates the usage of the MobSur iOS SDK.
 
 To run the project:
 
